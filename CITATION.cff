@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Moradan"
+  given-names: "Atefeh"
+  orcid: "https://orcid.org/0009-0009-2864-2447"
+- family-names: "Sorkhpar"
+  given-names: "Mohammad"
+  orcid: "https://orcid.org/0009-0006-2856-9225"
+- family-names: "Miyauchi"
+  given-names: "Atsushi"
+- family-names: "Mottin"
+  given-names: "Davide"
+  orcid: "https://orcid.org/0000-0001-8256-2258"
+- family-names: "Assent"
+  given-names: "Ira"
+  orcid: "https://orcid.org/0000-0002-1091-9948"
+title: "Untapping the Power of Indirect Relationships in Entity Summarization"
+version: 0.1.0
+doi: 10.1145/3701551.3703566
+date-released: March 10–14, 2025
+url: "https://github.com/atefemoradan/IRES"
