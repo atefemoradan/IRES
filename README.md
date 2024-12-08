@@ -1,5 +1,7 @@
 # IRES
 
+[![WSDM '25](https://img.shields.io/badge/WSDM%20'25-10.1145/3701551.3703566-blue)](https://doi.org/10.1145/3701551.3703566)
+
 ### Introduction
 
 This repository contains the implementation of our approach to entity summarization using Relational Graph Convolutional
